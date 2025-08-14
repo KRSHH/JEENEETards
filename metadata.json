@@ -1,0 +1,5 @@
+{
+  "name": "Slur Analysis Dashboard",
+  "description": "A beautiful and interactive dashboard to visualize and analyze slur usage data from a comprehensive JSON file. It provides detailed graphs on slur frequency, user activity, temporal patterns, and more.",
+  "requestFramePermissions": []
+}
