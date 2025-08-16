@@ -14,7 +14,7 @@ const Card: React.FC<CardProps> = ({ title, icon, children }) => {
         {icon && <div className="text-slate-400 mr-3">{icon}</div>}
         <h2 className="text-lg font-semibold text-slate-100">{title}</h2>
       </div>
-      <div className="flex-grow h-80">
+      <div className="flex-grow min-h-[20rem]">
         {children}
       </div>
     </div>
